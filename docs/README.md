@@ -6,7 +6,7 @@
 
 Este diretório é destinado para as documentações que serão elaboradas ao longo do projeto. Manuais de utilização, documentação de testes e relatórios de entrega, devem ser escritos em arquivos ***markdown*** separados e organizados em subdiretórios dentro deste diretório.
 
-As imagens utilizadas exclusivamente para documentação devem ser colocadas no subdiretório [`docs/images`](../img/). Já imagens do funcionamento do protótipo devem ser colocadas no diretório `media`.
+As imagens utilizadas exclusivamente para documentação devem ser colocadas no subdiretório [`docs/img`](../img/). Já imagens do funcionamento do protótipo devem ser colocadas no diretório `media`.
 
 ## Tutoriais
 
